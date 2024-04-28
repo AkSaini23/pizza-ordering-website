@@ -3,6 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 First, run the development server:
+Add .env file which contains MONGO_URI to connect mongoDB
 
 ```bash
 npm run dev
